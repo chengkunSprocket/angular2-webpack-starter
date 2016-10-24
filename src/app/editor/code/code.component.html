@@ -1,0 +1,3 @@
+<div>
+  <div ace-editor class="editor" *ngFor="let item of editors" [mode]="item" (textChanged)="onChange($event, item)">{{editorData[item]}}</div>
+</div>

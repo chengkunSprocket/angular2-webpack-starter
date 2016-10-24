@@ -1,0 +1,10 @@
+{
+  "globalDependencies": {
+    "core-js": "registry:dt/core-js#0.0.0+20160725163759",
+    "jasmine": "registry:dt/jasmine#2.2.0+20160621224255",
+    "node": "registry:dt/node#6.0.0+20160909174046",
+    "d3": "github:DefinitelyTyped/DefinitelyTyped/d3/d3.d.ts#6e2f2280ef16ef277049d0ce8583af167d586c59",
+    "backbone": "github:DefinitelyTyped/DefinitelyTyped/backbone/backbone.d.ts#f614c7b3d4946dc60ec44af39bee91c52d8c2eb6",
+    "jointjs": "github:DefinitelyTyped/DefinitelyTyped/jointjs/jointjs.d.ts#bc99bbdd0fc5c140915e7f24e9448855858642fb"
+  }
+}
